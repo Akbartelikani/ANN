@@ -1,9 +1,3 @@
-//============================================================================
-// Name        : Artificial Neural Network (ANN)
-// Author      : Mona Roshdibenam
-// Copyright   : December 2018
-// Description : Object Oriented ProgrammingI by C++     -Fall 2018
-//============================================================================
 #include <iostream>
 #include<conio.h>
 #include<iomanip>
@@ -614,11 +608,6 @@ void ANN::Menu()
 		cout<<" \n\t\t====================================================";
  		cout << "\n\t\t\t\t ANN:	Main Menu";                                      
  		cout<<" \n\t\t====================================================";
-	 	cout << "\n\t\t Project     : Artificial Neural Network (ANN)";
-	 	cout << "\n\t\t Author      : Mona Roshdibenam";
-	 	cout << "\n\t\t Description : Object Oriented ProgrammingI by C++";
-		cout << "\n\t\t Copyright   : December 2018";                                           
-	 	cout<<" \n\t\t====================================================";
      	cout << "\n\n\t\t  1. Sampling";
     	cout << "\n\n\t\t  2. Training";
     	cout << "\n\n\t\t  3. Testing";
