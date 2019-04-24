@@ -1,3 +1,9 @@
+//============================================================================
+// Name        : Main.cpp
+// Author      : Akbar Telikani
+// Copyright   : October 2018
+// Description : Object Oriented ProgrammingI by C++
+//============================================================================
 #include <iostream>
 #include<conio.h>
 #include<iomanip>
